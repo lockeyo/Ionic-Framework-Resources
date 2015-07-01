@@ -1,5 +1,5 @@
 # Ionic-Framework-Resources
-Ionic Framework Resources is a great overview for every Ionic Developer or someone who wants to be one in the future.
+A free collaborative list of awesome Ionic Framework resources. It's a great overview for every Ionic Developer or someone who wants to be one in the future. Feel free to contribute! Thanks in advance.
 
 More information will be added over time.
 
@@ -16,19 +16,78 @@ More information will be added over time.
 ### ngCordova
 * http://ngcordova.com/
 
-### Basic Login
+### The best Ionic Blogs
+* http://www.joshmorony.com/category/ionic-tutorials/
+* http://blog.ionic.io/
+* https://blog.nraboy.com/?s=ionic&submit=Search
+
+### Build Tools
+* https://github.com/diegonetto/generator-ionic
+
+### Continuous Integration
+* https://travis-ci.org/
+
+### Create a app with a basic Login
 * http://devdactic.com/simple-login-example-with-ionic-and-angularjs/
 * http://codepen.io/ionic/pen/CbBsA
+* http://blog.ionic.io/angularjs-authentication/
+* https://blog.nraboy.com/2014/07/handle-user-sign-ionicframework/
+* http://devdactic.com/user-auth-angularjs-ionic/
+* http://devdactic.com/simple-login-example-with-ionic-and-angularjs/
 
-### Chat Apps
+### Create a chat app
 * http://codepen.io/ethanneff/pen/yymYRR
 * https://github.com/mhartington/Ionic-Chat
 * https://github.com/ricvale/Chat
 * https://www.airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase
 * https://github.com/melvin0008/ionic-socketio-chat-client
 
-### App with Push Notification
-http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/
+### Create a app with push notification
+* http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/
 
-### Locationbased Apps
+### Create a locationbased app
 * http://www.sitepoint.com/creating-location-sharing-app-using-ionic-framework/
+* http://www.i-programmer.info/projects/131-mapping-a-gis/7468-building-geo-tracking-apps-with-angularjs-ionic-and-the-salesforce-rest-api.html
+
+### Create a blog apps
+* http://www.hascode.com/2015/05/creating-a-hybrid-mobile-application-with-ionic-cordova-and-angularjs/
+* http://reactor.apppresser.com/blog/wordpress-api-ionic-app/
+
+### Create a ToDo list app
+* https://blog.nraboy.com/2015/03/create-todo-list-mobile-app-using-ionic-framework/
+* http://codepen.io/emileae/pen/IrwbK
+* https://www.genuitec.com/products/myeclipse/learning-center/mobile/mobile-app-ionic/
+
+### Create a image sharing app
+* http://www.htmlxprs.com/post/6/creating-a-realtime-image-sharing-app-with-ionic-and-socketio-tutorial
+* https://www.airpair.com/ionic-framework/posts/ionic-firebase-camera-app
+* https://github.com/nraboy/ionic-imgur-app
+
+### Create a weather forecast app
+* https://github.com/driftyco/ionic-weather
+* http://www.binpress.com/tutorial/a-simple-weather-forecast-app-with-ionic-framework-and-forecastio/107
+* https://github.com/ishworthapaliya/theweatherapp
+
+### Create a expense tracker app
+* http://wijmo.com/expense-tracker-sample-creating-the-project/
+
+### Create a app with social media integration
+* https://blog.nraboy.com/2014/10/implement-social-media-sharing-ionicframework/
+
+### Create a app with animations
+* http://devdactic.com/ionic-with-movejs/
+
+### Create a facebook clonea app
+* https://blog.nraboy.com/2015/02/make-facebook-mobile-app-ionic-framework/
+
+### Calculator App
+* https://blog.nraboy.com/2015/04/create-a-complex-calculator-app-using-ionic-framework/
+
+### Unsorted links
+* https://github.com/rajeshwarpatlolla/ionic-timepicker
+* http://devdactic.com/healthkit-app-with-ionic/
+* https://blog.nraboy.com/2014/06/using-google-analytics-ionicframework/
+* http://blog.ionic.io/pull-to-refresh-directive/
+* http://devdactic.com/shrinking-headers-with-ionic/
+* http://devdactic.com/rate-my-app-ionic/
+* https://blog.nraboy.com/2015/01/upload-files-remote-server-using-ionic-framework/
