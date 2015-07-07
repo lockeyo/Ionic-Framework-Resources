@@ -3,7 +3,7 @@ A free collaborative list of awesome Ionic Framework resources. It's a great ove
 
 More information will be added over time.
 
-### Developer Pages
+### Developer pages
 * http://ionicframework.com/
 * https://apps.ionic.io/
 * http://showcase.ionicframework.com/
@@ -16,24 +16,23 @@ More information will be added over time.
 ### ngCordova
 * http://ngcordova.com/
 
-### The best Ionic Blogs
+### The best Ionic blogs
 * http://www.joshmorony.com/category/ionic-tutorials/
 * http://blog.ionic.io/
 * https://blog.nraboy.com/?s=ionic&submit=Search
 
-### Build Tools
+### Build tools
 * https://github.com/diegonetto/generator-ionic
 
-### Continuous Integration
+### Continuous integration
 * https://travis-ci.org/
 
-### Create a app with a basic Login
+### Create a app with a basic login
 * http://devdactic.com/simple-login-example-with-ionic-and-angularjs/
 * http://codepen.io/ionic/pen/CbBsA
 * http://blog.ionic.io/angularjs-authentication/
 * https://blog.nraboy.com/2014/07/handle-user-sign-ionicframework/
 * http://devdactic.com/user-auth-angularjs-ionic/
-* http://devdactic.com/simple-login-example-with-ionic-and-angularjs/
 
 ### Create a chat app
 * http://codepen.io/ethanneff/pen/yymYRR
@@ -53,7 +52,7 @@ More information will be added over time.
 * http://www.hascode.com/2015/05/creating-a-hybrid-mobile-application-with-ionic-cordova-and-angularjs/
 * http://reactor.apppresser.com/blog/wordpress-api-ionic-app/
 
-### Create a ToDo list app
+### Create a todo list app
 * https://blog.nraboy.com/2015/03/create-todo-list-mobile-app-using-ionic-framework/
 * http://codepen.io/emileae/pen/IrwbK
 * https://www.genuitec.com/products/myeclipse/learning-center/mobile/mobile-app-ionic/
@@ -77,10 +76,10 @@ More information will be added over time.
 ### Create a app with animations
 * http://devdactic.com/ionic-with-movejs/
 
-### Create a facebook clonea app
+### Create a facebook clone app
 * https://blog.nraboy.com/2015/02/make-facebook-mobile-app-ionic-framework/
 
-### Calculator App
+### Calculator app
 * https://blog.nraboy.com/2015/04/create-a-complex-calculator-app-using-ionic-framework/
 
 ### Unsorted links
@@ -91,3 +90,8 @@ More information will be added over time.
 * http://devdactic.com/shrinking-headers-with-ionic/
 * http://devdactic.com/rate-my-app-ionic/
 * https://blog.nraboy.com/2015/01/upload-files-remote-server-using-ionic-framework/
+* http://plnkr.co/edit/1lNJJc?p=preview (movie search app)
+* http://coenraets.org/blog/2014/10/ionic-tutorial-and-sample-application/
+
+### Buy some resources  
+http://codecanyon.net/item/ionizer-ionic-angularjs-cordova-app-template-example/9264510
