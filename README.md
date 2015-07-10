@@ -1,4 +1,4 @@
-# Ionic-Framework-Resources
+# Ionic-Framework-Resources :computer:
 A free collaborative list of awesome Ionic Framework resources. It's a great overview for every Ionic Developer or someone who wants to be one in the future. Feel free to contribute! Thanks in advance.
 
 ### Developer pages
@@ -29,13 +29,16 @@ A free collaborative list of awesome Ionic Framework resources. It's a great ove
 ## Realworld examples
 
 There is a great list of real world examples in this repository. If you looking for a simple app you could possibly find it there.
-
+* https://github.com/lockeyo/Ionic-Framework-Resources/blob/master/realworld-examples.md
 
 ## Functions for apps / app extensions
 
 If you're searching for some special feature to build into your Ionic app go to the features and extensions page. We update this list every week so stay tuned.
-
+* https://github.com/lockeyo/Ionic-Framework-Resources/blob/master/features-and-extensions.md
 
 ### Unsorted links
 * https://blog.nraboy.com/2015/01/upload-files-remote-server-using-ionic-framework/
 * http://coenraets.org/blog/2014/10/ionic-tutorial-and-sample-application/
+
+
+Created by Marcel Engelmann | http://www.marcelengelmann.com/
