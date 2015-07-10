@@ -1,8 +1,6 @@
 # Ionic-Framework-Resources
 A free collaborative list of awesome Ionic Framework resources. It's a great overview for every Ionic Developer or someone who wants to be one in the future. Feel free to contribute! Thanks in advance.
 
-More information will be added over time.
-
 ### Developer pages
 * http://ionicframework.com/
 * https://apps.ionic.io/
@@ -12,6 +10,7 @@ More information will be added over time.
 * http://play.ionic.io/
 * http://creator.ionic.io/
 * http://shop.ionic.io/
+* http://ionicons.com/
 
 ### ngCordova
 * http://ngcordova.com/
@@ -27,12 +26,7 @@ More information will be added over time.
 ### Continuous integration
 * https://travis-ci.org/
 
-### Create a app with a basic login
-* http://devdactic.com/simple-login-example-with-ionic-and-angularjs/
-* http://codepen.io/ionic/pen/CbBsA
-* http://blog.ionic.io/angularjs-authentication/
-* https://blog.nraboy.com/2014/07/handle-user-sign-ionicframework/
-* http://devdactic.com/user-auth-angularjs-ionic/
+## Real world examples
 
 ### Create a chat app
 * http://codepen.io/ethanneff/pen/yymYRR
@@ -40,9 +34,6 @@ More information will be added over time.
 * https://github.com/ricvale/Chat
 * https://www.airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase
 * https://github.com/melvin0008/ionic-socketio-chat-client
-
-### Create a app with push notification
-* http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/
 
 ### Create a locationbased app
 * http://www.sitepoint.com/creating-location-sharing-app-using-ionic-framework/
@@ -70,17 +61,30 @@ More information will be added over time.
 ### Create a expense tracker app
 * http://wijmo.com/expense-tracker-sample-creating-the-project/
 
+### Create a facebook clone app
+* https://blog.nraboy.com/2015/02/make-facebook-mobile-app-ionic-framework/
+
+### Create a calculator app
+* https://blog.nraboy.com/2015/04/create-a-complex-calculator-app-using-ionic-framework/
+
+## Functions for apps / app extensions
+
+### Create a app with a basic login
+* http://devdactic.com/simple-login-example-with-ionic-and-angularjs/
+* http://codepen.io/ionic/pen/CbBsA
+* http://blog.ionic.io/angularjs-authentication/
+* https://blog.nraboy.com/2014/07/handle-user-sign-ionicframework/
+* http://devdactic.com/user-auth-angularjs-ionic/
+* 
 ### Create a app with social media integration
 * https://blog.nraboy.com/2014/10/implement-social-media-sharing-ionicframework/
 
 ### Create a app with animations
 * http://devdactic.com/ionic-with-movejs/
+* https://github.com/driftyco/collide
 
-### Create a facebook clone app
-* https://blog.nraboy.com/2015/02/make-facebook-mobile-app-ionic-framework/
-
-### Calculator app
-* https://blog.nraboy.com/2015/04/create-a-complex-calculator-app-using-ionic-framework/
+### Create a app with push notification
+* http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/
 
 ### Unsorted links
 * https://github.com/rajeshwarpatlolla/ionic-timepicker
