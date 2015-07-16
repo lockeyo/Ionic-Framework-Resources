@@ -12,6 +12,7 @@ On this page you find a great resource for apps you would like to build. If you 
 ### Create a locationbased app
 * http://www.sitepoint.com/creating-location-sharing-app-using-ionic-framework/
 * http://www.i-programmer.info/projects/131-mapping-a-gis/7468-building-geo-tracking-apps-with-angularjs-ionic-and-the-salesforce-rest-api.html
+* https://github.com/cowbell/ionic-geofence (Good description)
 
 ### Create a blog apps
 * http://www.hascode.com/2015/05/creating-a-hybrid-mobile-application-with-ionic-cordova-and-angularjs/
@@ -34,6 +35,7 @@ On this page you find a great resource for apps you would like to build. If you 
 
 ### Create a expense tracker app
 * http://wijmo.com/expense-tracker-sample-creating-the-project/
+* https://github.com/gigocabrera/moneyleash
 
 ### Create a facebook clone app
 * https://blog.nraboy.com/2015/02/make-facebook-mobile-app-ionic-framework/
@@ -46,3 +48,8 @@ On this page you find a great resource for apps you would like to build. If you 
 
 ### Create a work out app
 * https://github.com/Kasperczyk/kafilo
+
+### Create a music player
+* https://github.com/homerours/cosmic
+
+Created by Marcel Engelmann | http://www.marcelengelmann.com/
