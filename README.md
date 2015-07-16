@@ -15,6 +15,9 @@ A free collaborative list of awesome Ionic Framework resources. It's a great ove
 ### ngCordova
 * http://ngcordova.com/
 
+### Angular Links
+* https://material.angularjs.org/latest/#/
+
 ### The best Ionic blogs
 * http://www.joshmorony.com/category/ionic-tutorials/
 * http://blog.ionic.io/
@@ -25,6 +28,9 @@ A free collaborative list of awesome Ionic Framework resources. It's a great ove
 
 ### Continuous integration
 * https://travis-ci.org/
+
+### Testing
+* http://karma-runner.github.io/0.8/index.html
 
 ## Realworld examples
 
