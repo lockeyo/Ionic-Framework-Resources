@@ -33,3 +33,6 @@ If you build a app you sometime just need some extra things witch extend the fun
 
 ### Extend a app with shrinking headers
 * http://devdactic.com/shrinking-headers-with-ionic/
+
+### Extend a app with audio
+* https://blog.nraboy.com/2014/11/playing-audio-android-ios-ionicframework-app/
