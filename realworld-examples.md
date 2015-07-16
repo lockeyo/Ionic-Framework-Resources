@@ -43,3 +43,6 @@ On this page you find a great resource for apps you would like to build. If you 
 
 ### Movie serach app
 * http://plnkr.co/edit/1lNJJc?p=preview (movie search app)
+
+### Create a work out app
+* https://github.com/Kasperczyk/kafilo
