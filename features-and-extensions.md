@@ -9,6 +9,9 @@ If you build a app you sometime just need some extra things witch extend the fun
 * https://blog.nraboy.com/2014/07/handle-user-sign-ionicframework/
 * http://devdactic.com/user-auth-angularjs-ionic/
 
+### Extend a app with social media login
+* https://github.com/AppXtorm/ionic-facebook-login
+
 ### Extend a app with social media integration
 * https://blog.nraboy.com/2014/10/implement-social-media-sharing-ionicframework/
 
@@ -36,3 +39,6 @@ If you build a app you sometime just need some extra things witch extend the fun
 
 ### Extend a app with audio
 * https://blog.nraboy.com/2014/11/playing-audio-android-ios-ionicframework-app/
+
+Created by Marcel Engelmann | http://www.marcelengelmann.com/
+
