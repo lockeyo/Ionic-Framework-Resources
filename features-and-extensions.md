@@ -22,7 +22,7 @@ If you build a app you sometime just need some extra things witch extend the fun
 ### Extend a app with push notification
 * http://devgirl.org/2014/12/16/push-notifications-sample-app-with-ionic-and-ngcordova/
 
-### Extend a app with atime picker
+### Extend a app with time picker
 * https://github.com/rajeshwarpatlolla/ionic-timepicker
 
 ### Extend a app with Apple Healthkit
@@ -39,6 +39,9 @@ If you build a app you sometime just need some extra things witch extend the fun
 
 ### Extend a app with audio
 * https://blog.nraboy.com/2014/11/playing-audio-android-ios-ionicframework-app/
+
+### Extend a app with google maps
+* http://www.gajotres.net/using-google-maps-with-ionic-framework/
 
 Created by Marcel Engelmann | http://www.marcelengelmann.com/
 
