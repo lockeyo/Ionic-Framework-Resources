@@ -52,4 +52,7 @@ On this page you find a great resource for apps you would like to build. If you 
 ### Create a music player
 * https://github.com/homerours/cosmic
 
+### Create a stop watch
+* https://github.com/arnovyncke/StopWatcher
+
 Created by Marcel Engelmann | http://www.marcelengelmann.com/
