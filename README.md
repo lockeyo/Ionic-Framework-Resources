@@ -11,6 +11,7 @@ A free collaborative list of awesome Ionic Framework resources. It's a great ove
 * http://creator.ionic.io/
 * http://shop.ionic.io/
 * http://ionicons.com/
+* http://codepen.io/ionic/public-list/
 
 ### ngCordova
 * http://ngcordova.com/
