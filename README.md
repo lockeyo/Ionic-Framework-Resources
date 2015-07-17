@@ -1,5 +1,5 @@
 # Ionic-Framework-Resources :computer:
-A free collaborative list of awesome Ionic Framework resources. It's a great overview for every Ionic Developer or someone who wants to be one in the future. Feel free to contribute! Thanks in advance.
+A free collaborative list of over 50 awesome Ionic Framework resources. It's a great overview for every Ionic Developer or someone who wants to be one in the future. Feel free to contribute! Thanks in advance.
 
 ### Developer pages
 * http://ionicframework.com/
