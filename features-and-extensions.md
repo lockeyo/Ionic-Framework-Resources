@@ -43,5 +43,8 @@ If you build a app you sometime just need some extra things witch extend the fun
 ### Extend a app with google maps
 * http://www.gajotres.net/using-google-maps-with-ionic-framework/
 
+### Extend a app with game center
+* http://devdactic.com/gamecenter-ionic/
+
 Created by Marcel Engelmann | http://www.marcelengelmann.com/
 
