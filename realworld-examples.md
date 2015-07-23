@@ -55,4 +55,7 @@ On this page you find a great resource for apps you would like to build. If you 
 ### Create a stop watch
 * https://github.com/arnovyncke/StopWatcher
 
+### Create a game 
+* https://github.com/adgad/emojimon
+
 Created by Marcel Engelmann | http://www.marcelengelmann.com/
