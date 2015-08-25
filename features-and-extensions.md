@@ -43,6 +43,9 @@ If you build a app you sometime just need some extra things witch extend the fun
 ### Extend a app with google maps
 * http://www.gajotres.net/using-google-maps-with-ionic-framework/
 
+### Extend app with a google map Street search
+* https://github.com/israelidanny/ion-google-place
+
 ### Extend a app with game center
 * http://devdactic.com/gamecenter-ionic/
 
