@@ -58,4 +58,12 @@ On this page you find a great resource for apps you would like to build. If you 
 ### Create a game 
 * https://github.com/adgad/emojimon
 
+### Create a Wordpress app
+* https://github.com/scottopolis/wpIonic
+
+### Other Apps that are nice
+* https://github.com/Jackey-Sparrow/hiApp-ionic
+* https://github.com/Saumik/ionicgooglemaps
+* https://github.com/amhester/spotFinder
+
 Created by Marcel Engelmann | http://www.marcelengelmann.com/
