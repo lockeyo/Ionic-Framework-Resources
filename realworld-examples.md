@@ -61,6 +61,9 @@ On this page you find a great resource for apps you would like to build. If you 
 ### Create a Wordpress app
 * https://github.com/scottopolis/wpIonic
 
+### Create a Spotify App
+* http://www.joshmorony.com/spotify-player-ionic/
+
 ### Other Apps that are nice
 * https://github.com/Jackey-Sparrow/hiApp-ionic
 * https://github.com/Saumik/ionicgooglemaps
