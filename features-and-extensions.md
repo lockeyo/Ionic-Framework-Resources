@@ -49,5 +49,9 @@ If you build a app you sometime just need some extra things witch extend the fun
 ### Extend a app with game center
 * http://devdactic.com/gamecenter-ionic/
 
+### Extend a app with geolocation
+* http://www.raymondcamden.com/2015/05/18/tracking-and-notifying-geolocation-status-with-ionic
+
+
 Created by Marcel Engelmann | http://www.marcelengelmann.com/
 
