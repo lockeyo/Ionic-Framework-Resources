@@ -47,5 +47,8 @@ If you're searching for some special feature to build into your Ionic app go to 
 * https://blog.nraboy.com/2015/01/upload-files-remote-server-using-ionic-framework/
 * http://coenraets.org/blog/2014/10/ionic-tutorial-and-sample-application/
 
+### Apps made with Ionic
+* Onlinemedien (https://itunes.apple.com/de/app/onlinemedien-vorlesungsplan/id1069735292?l=de&ls=1&mt=8)
+
 
 Created by Marcel Engelmann | http://www.marcelengelmann.com/
